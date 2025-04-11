@@ -6,4 +6,4 @@ Componente 2: Lucas Augusto Morais Carvalho
 
 Componente 3: Pedro Santos Rezende
 
-Componente 4:
+Componente 4: Lucas Andrian Pieroni 
