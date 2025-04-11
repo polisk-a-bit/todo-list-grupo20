@@ -1,6 +1,6 @@
 # todo-list-grupo20
 
-Componente 1: Mateus Restivo Lourêdo
+Componente 1: Mateus Restivo Lourêdo - Estrutura HTML inicial e Implementação da tarefa CSS
 
 Componente 2: Lucas Augusto Morais Carvalho 
 
