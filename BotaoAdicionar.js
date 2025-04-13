@@ -12,23 +12,17 @@ function adicionarTarefa() {
     const li = document.createElement('li');
     li.textContent = textoTarefa;
 
-    // Criar container de botões (será usado nos componentes 4 e 5)
     const botoesDiv = document.createElement('div');
     botoesDiv.className = 'botoes';
 
-    // Botão concluir (componente 4)
     const btnConcluir = criarBotaoConcluir(li);
-    // Botão excluir (componente 5)
     const btnExcluir = criarBotaoExcluir(li);
 
-    // Adiciona os botões à div
     botoesDiv.appendChild(btnConcluir);
     botoesDiv.appendChild(btnExcluir);
     li.appendChild(botoesDiv);
 
-    // Adiciona a tarefa à lista
     lista.appendChild(li);
 
-    // Limpar o campo de entrada
     input.value = '';
 }
